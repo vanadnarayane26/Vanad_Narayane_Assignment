@@ -1,5 +1,7 @@
 # Vanad_Narayane_Assignment
-Assignment for NLP Data Science Internship
+Assignment for NLP Data Science Internship.
+
+
 The F1 score is less because of low training done. Following ways can be used for improving the performance of the model:
 
 Train for longer duration.
